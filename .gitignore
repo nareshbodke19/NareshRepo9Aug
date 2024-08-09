@@ -53,3 +53,4 @@ node_modules/
 # Ignore generated files by testing frameworks (e.g., JUnit)
 test-output/
 surefire-reports/
+ 
