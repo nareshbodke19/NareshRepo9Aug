@@ -1,10 +1,11 @@
 package Test;
 
-public class LoginTest {
+public class CartPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("git log in test");
+
+		System.out.println("this is my cart page");
 	}
 
 }
